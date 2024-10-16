@@ -1,2 +1,3 @@
 # GuessingGame
- A word-guessing game application built using python
+
+Word-guessing game built using python (simply open the notebook and run all cells)
